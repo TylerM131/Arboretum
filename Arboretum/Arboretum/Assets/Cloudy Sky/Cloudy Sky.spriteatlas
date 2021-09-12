@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cloudy Sky
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+    totalSpriteSurfaceArea: 8448
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 82092198627640047, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -6344826030584273774, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 3331593471953929620, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -1889303525952982540, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -6480057081356320181, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -4431884689522741823, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -5577268608653057066, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -7436015509851664116, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 6852581319923189076, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 6386137831960604305, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 2547547644844417289, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -1878635815562074219, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 3216774538335167132, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -1586203754473827070, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 1304270684870645896, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -3456885951438693167, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 3006443315123961224, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 6851806122056184107, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 3122032253100394959, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -7696424703356514906, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 8709044215425255266, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 6256076448062495723, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -1362327996547992436, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -3411206769464343912, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 6571316206795942831, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -1535306442835599545, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -2743943902663476623, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 3375035236283566659, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -2476368807548471210, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -7085425823310965250, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 8539479716629666602, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: -6191278486478030537, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  - {fileID: 2075501674790262918, guid: 05848c26044530f4da09028d0427e73d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Cloud Tileset_29
+  - Cloud Tileset_28
+  - Cloud Tileset_23
+  - Cloud Tileset_22
+  - Cloud Tileset_18
+  - Cloud Tileset_21
+  - Cloud Tileset_19
+  - Cloud Tileset_20
+  - Cloud Tileset_16
+  - Cloud Tileset_27
+  - Cloud Tileset_17
+  - Cloud Tileset_26
+  - Cloud Tileset_14
+  - Cloud Tileset_25
+  - Cloud Tileset_15
+  - Cloud Tileset_24
+  - Cloud Tileset_12
+  - Cloud Tileset_13
+  - Cloud Tileset_10
+  - Cloud Tileset_11
+  - Cloud Tileset_9
+  - Cloud Tileset_8
+  - Cloud Tileset_3
+  - Cloud Tileset_2
+  - Cloud Tileset_1
+  - Cloud Tileset_0
+  - Cloud Tileset_7
+  - Cloud Tileset_6
+  - Cloud Tileset_5
+  - Cloud Tileset_4
+  - Cloud Tileset_30
+  - Cloud Tileset_31
+  - Cloud Tileset_32
+  m_RenderDataMap: {}
+  m_Tag: Cloudy Sky
+  m_IsVariant: 0
